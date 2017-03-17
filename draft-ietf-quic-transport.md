@@ -1593,7 +1593,7 @@ commitment and to apply back pressure.
 
 An alternative view of QUIC streams is as an elastic "message" abstraction,
 similar to the way ephemeral streams are used in SST
-{{?DOI.10.1145/1282427.1282421 SST}}, which may be a more appealing description
+{{?SST=DOI.10.1145/1282427.1282421}}, which may be a more appealing description
 for some applications.
 
 ## Life of a Stream
